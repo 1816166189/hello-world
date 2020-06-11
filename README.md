@@ -8,4 +8,4 @@ bbbb
 20200611
 
 masterp
-branch2
+resolve
